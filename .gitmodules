@@ -1,3 +1,6 @@
 [submodule "61f3392ef800f067406bc4ec"]
 	path = slides/wk1
 	url = https://git.overleaf.com/61f3392ef800f067406bc4ec
+[submodule "slides/wk2"]
+	path = slides/wk2
+	url = https://git.overleaf.com/62067e89f9439b4f2759956b
